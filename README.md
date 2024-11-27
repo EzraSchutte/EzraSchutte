@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- Studying Software developer
+- 🖥️ Studying Software developer
